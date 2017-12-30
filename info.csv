@@ -1,11 +1,13 @@
-book,year,author,nationality,sex
-Hotel World,2001,Ali Smith,Scotland,Female
-Things Fall Apart,1958,Chinua Achebe,Nigeria,Male
-Dispatches,1977,Michael Herr,USA,Male
-Siddhartha,1951,Hermann Hesse,Germany,Male
-What Ends,2014,Andrew Ladd,Scotland,Male
-Our Friends from Frolix 8,1970,Philip K. Dick,USA,Male
-The Living Mountain,1977,Nan Shephard,Scotland,Female
-Wise Blood,1952,Flannery O'Connor,USA,Female
-The Vegetarian,2007,Han Kang,South Korea,Female
-A Visit from the Goon Squad,2010,Jennifer Egan,USA,Female
+Book,Year,Author,Nationality,Sex,Who
+Hotel World,2001,Ali Smith,Scotland,Female,Neil
+Things Fall Apart,1958,Chinua Achebe,Nigeria,Male,Gary
+Dispatches,1977,Michael Herr,USA,Male,David
+Siddhartha,1951,Hermann Hesse,Germany,Male,Stuart
+What Ends,2014,Andrew Ladd,Scotland,Male,Drew
+Our Friends from Frolix 8,1970,Philip K. Dick,USA,Male,Sam
+The Living Mountain,1977,Nan Shephard,Scotland,Female,Iain
+Wise Blood,1952,Flannery O'Connor,USA,Female,David
+The Vegetarian,2007,Han Kang,South Korea,Female,Drew
+A Visit from the Goon Squad,2010,Jennifer Egan,USA,Female,Neil
+Confessions of a Yakuza,1989,Junichi Saga,Japan,Male,Sam
+Between the World and Me,2015,Ta-Nehisi Coates,USA,Male,Gary

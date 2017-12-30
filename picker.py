@@ -5,7 +5,7 @@ import warnings
 
 warnings.filterwarnings("ignore")
 
-hat = ['gary', 'stu', 'iain', 'samwise']
+hat = ['gary', 'stu', 'samwise']
 
 choose = np.random.randint(len(hat), size=1000000)
 
@@ -61,4 +61,6 @@ x, y = np.histogram(choose, bins=len(hat))
 a = np.argmax(x)
 print('The book is to be choosen by:')
 time.sleep(1)
-print(hat[a])
+for i in range(0, 50):
+    print(hat[a])
+print('Hope you were able to read that this time')
