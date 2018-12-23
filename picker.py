@@ -1,12 +1,11 @@
-import numpy as np 
-import matplotlib.pyplot as plt
+import numpy as np
 import time
 import warnings
 
 warnings.filterwarnings("ignore")
 
-hat = ['stu', 'gary', 'sam', 'tibbsy', 'drew', 'iain']
-hat2 = ['gary', 'sam', 'neil', 'tibbsy', 'drew', 'iain']
+hat = ['sam', 'gary', 'tibbsy', 'neil', 'stu', 'drew']
+hat2 = ['gary', 'tibbsy', 'iain']
 
 choose = np.random.randint(len(hat), size = 1000000)
 x, y = np.histogram(choose, bins=len(hat))
