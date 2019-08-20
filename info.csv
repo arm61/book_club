@@ -1,19 +1,26 @@
-Book,Year,Author,Nationality,Sex,Who
-Hotel World,2001,Ali Smith,Scotland,Female,Neil
-Things Fall Apart,1958,Chinua Achebe,Nigeria,Male,Gary
-Dispatches,1977,Michael Herr,USA,Male,David
-Siddhartha,1951,Hermann Hesse,Germany,Male,Stuart
-What Ends,2014,Andrew Ladd,Scotland,Male,Drew
-Our Friends from Frolix 8,1970,Philip K. Dick,USA,Male,Sam
-The Living Mountain,1977,Nan Shephard,Scotland,Female,Iain
-Wise Blood,1952,Flannery O'Connor,USA,Female,David
-The Vegetarian,2007,Han Kang,South Korea,Female,Drew
-A Visit from the Goon Squad,2010,Jennifer Egan,USA,Female,Neil
-Confessions of a Yakuza,1989,Junichi Saga,Japan,Male,Sam
-Between the World and Me,2015,Ta-Nehisi Coates,USA,Male,Gary
-Bird Box,2014,Josh Malerman,USA,Male,Iain
-Beyond Survival,1990,Gerald Coffee,USA,Male,Stuart
-Conversations with Friends,2017,Sally Rooney,Ireland,Female,Neil
-Anything Is Possible,2017,Elizabeth Strout,USA,Female,Drew
-Among Others,2011,Jo Walton,Wales,Female,Gary
-My Year of Rest and Relaxation,2018,Ottessa Moshfegh,USA,Female,David
+Book,Year,Author,Nationality,Sex,Who,Round
+Hotel World,2001,Ali Smith,Scotland,Female,Neil,1
+Things Fall Apart,1958,Chinua Achebe,Nigeria,Male,Gary,1
+Dispatches,1977,Michael Herr,USA,Male,David,1
+Siddhartha,1951,Hermann Hesse,Germany,Male,Stuart,1
+What Ends,2014,Andrew Ladd,Scotland,Male,Drew,1
+Our Friends from Frolix 8,1970,Philip K. Dick,USA,Male,Sam,1
+The Living Mountain,1977,Nan Shephard,Scotland,Female,Iain,1
+Wise Blood,1952,Flannery O'Connor,USA,Female,David,2
+The Vegetarian,2007,Han Kang,South Korea,Female,Drew,2
+A Visit from the Goon Squad,2010,Jennifer Egan,USA,Female,Neil,2
+Confessions of a Yakuza,1989,Junichi Saga,Japan,Male,Sam,2
+Between the World and Me,2015,Ta-Nehisi Coates,USA,Male,Gary,2
+Bird Box,2014,Josh Malerman,USA,Male,Iain,2
+Beyond Survival,1990,Gerald Coffee,USA,Male,Stuart,2
+Conversations with Friends,2017,Sally Rooney,Ireland,Female,Neil,3
+Anything Is Possible,2017,Elizabeth Strout,USA,Female,Drew,3
+Among Others,2011,Jo Walton,Wales,Female,Gary,3
+My Year of Rest and Relaxation,2018,Ottessa Moshfegh,USA,Female,David,3
+The Power,2016,Naomi Alderman,England,Female,Stuart,3
+The Tobacconist,2012,Robert Seethaler,Austria,Male,Iain,3
+Two Essays on Analytical Psychology,1912,Carl Jung,Switzerland,Male,Stuart,4
+The Virgin Suicides,1993,Jeffrey Eugenides,USA,Male,Neil,4
+Home Fire,2017,Kamila,Shamsie,Pakistan,Female,Iain,4
+Genocidal Organ,2007,Project Itoh,Japan,Male,Sam,4
+Oranges Are Not the Only Fruit,1985,Jeanette Winterson,England,Female,Gary,4
