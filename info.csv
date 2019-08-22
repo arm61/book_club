@@ -1,27 +1,27 @@
-Book,Year,Author,Nationality,Sex,Who,Round,Goodreads Rating,Number of Goodreads Ratings
-Hotel World,2001,Ali Smith,Scotland,Female,Neil,1,3.55,4592
-Things Fall Apart,1958,Chinua Achebe,Nigeria,Male,Gary,1,3.65,256327
-Dispatches,1977,Michael Herr,USA,Male,David,1,4.23,14753
-Siddhartha,1951,Hermann Hesse,Germany,Male,Stuart,1,4.01,509258
-What Ends,2014,Andrew Ladd,Scotland,Male,Drew,1,4.05,58
-Our Friends from Frolix 8,1970,Philip K. Dick,USA,Male,Sam,1,3.58,2428
-The Living Mountain,1977,Nan Shephard,Scotland,Female,Iain,1,4.30,1664
-Wise Blood,1952,Flannery O'Connor,USA,Female,David,2,3.86,23979
-The Vegetarian,2007,Han Kang,South Korea,Female,Drew,2,3.58,72716
-A Visit from the Goon Squad,2010,Jennifer Egan,USA,Female,Neil,2,3.66,162280
-Confessions of a Yakuza,1989,Junichi Saga,Japan,Male,Sam,2,3.84,1718
-Between the World and Me,2015,Ta-Nehisi Coates,USA,Male,Gary,2,4.40,162180
-Bird Box,2014,Josh Malerman,USA,Male,Iain,2,4.02,105571
-Beyond Survival,1990,Gerald Coffee,USA,Male,Stuart,2,4.16,135
-Conversations with Friends,2017,Sally Rooney,Ireland,Female,Neil,3,3.81,45611
-Anything Is Possible,2017,Elizabeth Strout,USA,Female,Drew,3,3.75,35524
-Among Others,2011,Jo Walton,Wales,Female,Gary,3,3.69,20490
-My Year of Rest and Relaxation,2018,Ottessa Moshfegh,USA,Female,David,3,3.68,37189
-The Power,2016,Naomi Alderman,England,Female,Stuart,3,3.85,113702
-The Tobacconist,2012,Robert Seethaler,Austria,Male,Iain,3,3.90,5853
-The Last Wish,2007,Andrzej Sapkowski,Poland,Male,Sam,3,4.20,94768
-Two Essays on Analytical Psychology,1912,Carl Jung,Switzerland,Male,Stuart,4,4.29,350
-The Virgin Suicides,1993,Jeffrey Eugenides,USA,Male,Neil,4,3.84,213024
-Home Fire,2017,Kamila Shamsie,Pakistan,Female,Iain,4,4.08,31110
-Genocidal Organ,2007,Project Itoh,Japan,Male,Sam,4,3.99,405
-Oranges Are Not the Only Fruit,1985,Jeanette Winterson,England,Female,Gary,4,3.74,49877
+Book,Year,Author,Nationality,Sex,Who,Round,Goodreads Rating,Number of Goodreads Ratings,Fiction/Non-Fiction
+Hotel World,2001,Ali Smith,Scotland,Female,Neil,1,3.55,4592,Fiction
+Things Fall Apart,1958,Chinua Achebe,Nigeria,Male,Gary,1,3.65,256327,Fiction
+Dispatches,1977,Michael Herr,USA,Male,David,1,4.23,14753,Non-Fiction
+Siddhartha,1951,Hermann Hesse,Germany,Male,Stuart,1,4.01,509258,Fiction
+What Ends,2014,Andrew Ladd,Scotland,Male,Drew,1,4.05,58,Fiction
+Our Friends from Frolix 8,1970,Philip K. Dick,USA,Male,Sam,1,3.58,2428,Fiction
+The Living Mountain,1977,Nan Shephard,Scotland,Female,Iain,1,4.30,1664,Non-Fiction
+Wise Blood,1952,Flannery O'Connor,USA,Female,David,2,3.86,23979,Fiction
+The Vegetarian,2007,Han Kang,South Korea,Female,Drew,2,3.58,72716,Fiction
+A Visit from the Goon Squad,2010,Jennifer Egan,USA,Female,Neil,2,3.66,162280,Fiction
+Confessions of a Yakuza,1989,Junichi Saga,Japan,Male,Sam,2,3.84,1718,Non-Fiction
+Between the World and Me,2015,Ta-Nehisi Coates,USA,Male,Gary,2,4.40,162180,Non-Fiction
+Bird Box,2014,Josh Malerman,USA,Male,Iain,2,4.02,105571,Fiction
+Beyond Survival,1990,Gerald Coffee,USA,Male,Stuart,2,4.16,135,Non-Fiction
+Conversations with Friends,2017,Sally Rooney,Ireland,Female,Neil,3,3.81,45611,Fiction
+Anything Is Possible,2017,Elizabeth Strout,USA,Female,Drew,3,3.75,35524,Fiction
+Among Others,2011,Jo Walton,Wales,Female,Gary,3,3.69,20490,Fiction
+My Year of Rest and Relaxation,2018,Ottessa Moshfegh,USA,Female,David,3,3.68,37189,Fiction
+The Power,2016,Naomi Alderman,England,Female,Stuart,3,3.85,113702,Fiction
+The Tobacconist,2012,Robert Seethaler,Austria,Male,Iain,3,3.90,5853,Fiction
+The Last Wish,2007,Andrzej Sapkowski,Poland,Male,Sam,3,4.20,94768,Fiction
+Two Essays on Analytical Psychology,1912,Carl Jung,Switzerland,Male,Stuart,4,4.29,350,Non-Fiction
+The Virgin Suicides,1993,Jeffrey Eugenides,USA,Male,Neil,4,3.84,213024,Fiction
+Home Fire,2017,Kamila Shamsie,Pakistan,Female,Iain,4,4.08,31110,Fiction
+Genocidal Organ,2007,Project Itoh,Japan,Male,Sam,4,3.99,405,Fiction
+Oranges Are Not the Only Fruit,1985,Jeanette Winterson,England,Female,Gary,4,3.74,49877,Non-Fiction
